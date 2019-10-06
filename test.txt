@@ -7,3 +7,5 @@ modified another file
 from local branch
 
 from branch to master merge conflicts
+
+edited from Github on master
